@@ -13,3 +13,6 @@ Since the Yelp businesses dataset isn't intended for public display, I'm current
 
 ### Screenshot 3: Dining trends by weather condition and time of year
 ![Dining trends by weather condition and time of year](screenshot-3.png)
+
+### Screenshot 4: Selected restaurant details
+![Selected restaurant details](screenshot-4.png)
